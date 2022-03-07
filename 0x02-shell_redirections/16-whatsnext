@@ -1,0 +1,2 @@
+#!/bin/bash
+echo 'grep -a "root"/etc/passwd' >> 16-whatsnext
